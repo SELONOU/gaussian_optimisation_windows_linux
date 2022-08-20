@@ -1,0 +1,3 @@
+%nprocshared=16
+%mem=20Gb
+%chk=name.chk
