@@ -1,0 +1,4 @@
+%nprocshared=56
+%mem=140GB
+%chk=sp.chk
+# b3lyp/6-31g(d,p) pop=full geom=connectivity gfoldprint int=nofofcou iop(3/33=1) scf=xqc
