@@ -1,0 +1,5 @@
+%chk=molsp.chk
+%mem=1GB
+%nprocshared=2
+%nosave
+#p b3lyp/6-31g(d,p) pop=full gfoldprint int=nofofcou iop(3/33=1) scf=xqc
